@@ -18,6 +18,7 @@ The dataset for the project was gathered from two sources:
 80% of the images were used for training the models and the remaining 20% for testing
 
 Datasets Folder link : **https://drive.google.com/drive/folders/17_D3UniIDr4ZOeYRUOQPnpOFTaF7VWYf?usp=sharing**
+<br>
 Model Folder Link : **https://drive.google.com/drive/folders/1D1v6VQ2DgGtHkZD4pBG65wnYu6Grh_JC?usp=sharing** 
 
 # Technical Concepts
